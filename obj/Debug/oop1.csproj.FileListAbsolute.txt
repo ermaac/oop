@@ -1,0 +1,17 @@
+e:\studies\4sem\labs\oop\oop1-master\oop1\bin\Debug\oop1.exe.config
+e:\studies\4sem\labs\oop\oop1-master\oop1\bin\Debug\oop1.exe
+e:\studies\4sem\labs\oop\oop1-master\oop1\bin\Debug\oop1.pdb
+e:\studies\4sem\labs\oop\oop1-master\oop1\obj\Debug\oop1.FormPaint.resources
+e:\studies\4sem\labs\oop\oop1-master\oop1\obj\Debug\oop1.Properties.Resources.resources
+e:\studies\4sem\labs\oop\oop1-master\oop1\obj\Debug\oop1.csproj.GenerateResource.Cache
+e:\studies\4sem\labs\oop\oop1-master\oop1\obj\Debug\oop1.exe
+e:\studies\4sem\labs\oop\oop1-master\oop1\obj\Debug\oop1.pdb
+E:\studies\4sem\labs\oop\oop\oop1\bin\Debug\oop1.exe.config
+E:\studies\4sem\labs\oop\oop\oop1\bin\Debug\oop1.exe
+E:\studies\4sem\labs\oop\oop\oop1\bin\Debug\oop1.pdb
+E:\studies\4sem\labs\oop\oop\oop1\obj\Debug\oop1.csprojResolveAssemblyReference.cache
+E:\studies\4sem\labs\oop\oop\oop1\obj\Debug\oop1.FormPaint.resources
+E:\studies\4sem\labs\oop\oop\oop1\obj\Debug\oop1.Properties.Resources.resources
+E:\studies\4sem\labs\oop\oop\oop1\obj\Debug\oop1.csproj.GenerateResource.Cache
+E:\studies\4sem\labs\oop\oop\oop1\obj\Debug\oop1.exe
+E:\studies\4sem\labs\oop\oop\oop1\obj\Debug\oop1.pdb
